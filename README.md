@@ -1,5 +1,5 @@
-# FILL IN INFO ABOUT YOUR GAME HERE. 
+# Week 1 WASD Controller 
 
-DO NOT LEAVE IT LIKE THIS!!!
+We did our favorite scripts and pushed the updated to github.
 
-Please? Please, give me content. I'm begging you. It's not that hard. Thanks.
+I gave you content. I hope you're happy.
